@@ -1,0 +1,3627 @@
+$date
+	Wed Jun 25 10:43:19 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ! \memory_array[0] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 " \memory_array[1] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 # \memory_array[2] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 $ \memory_array[3] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 % \memory_array[4] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 & \memory_array[5] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ' \memory_array[6] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ( \memory_array[7] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ) \memory_array[8] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 * \memory_array[9] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 + \memory_array[10] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 , \memory_array[11] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 - \memory_array[12] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 . \memory_array[13] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 / \memory_array[14] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 0 \memory_array[15] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 1 \memory_array[16] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 2 \memory_array[17] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 3 \memory_array[18] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 4 \memory_array[19] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 5 \memory_array[20] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 6 \memory_array[21] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 7 \memory_array[22] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 8 \memory_array[23] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 9 \memory_array[24] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 : \memory_array[25] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ; \memory_array[26] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 < \memory_array[27] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 = \memory_array[28] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 > \memory_array[29] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ? \memory_array[30] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 @ \memory_array[31] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 A \memory_array[32] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 B \memory_array[33] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 C \memory_array[34] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 D \memory_array[35] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 E \memory_array[36] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 F \memory_array[37] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 G \memory_array[38] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 H \memory_array[39] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 I \memory_array[40] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 J \memory_array[41] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 K \memory_array[42] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 L \memory_array[43] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 M \memory_array[44] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 N \memory_array[45] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 O \memory_array[46] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 P \memory_array[47] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Q \memory_array[48] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 R \memory_array[49] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 S \memory_array[50] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 T \memory_array[51] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 U \memory_array[52] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 V \memory_array[53] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 W \memory_array[54] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 X \memory_array[55] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Y \memory_array[56] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Z \memory_array[57] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 [ \memory_array[58] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 \ \memory_array[59] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ] \memory_array[60] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ^ \memory_array[61] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 _ \memory_array[62] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ` \memory_array[63] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 a \memory_array[64] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 b \memory_array[65] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 c \memory_array[66] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 d \memory_array[67] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 e \memory_array[68] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 f \memory_array[69] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 g \memory_array[70] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 h \memory_array[71] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 i \memory_array[72] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 j \memory_array[73] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 k \memory_array[74] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 l \memory_array[75] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 m \memory_array[76] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 n \memory_array[77] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 o \memory_array[78] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 p \memory_array[79] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 q \memory_array[80] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 r \memory_array[81] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 s \memory_array[82] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 t \memory_array[83] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 u \memory_array[84] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 v \memory_array[85] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 w \memory_array[86] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 x \memory_array[87] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 y \memory_array[88] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 z \memory_array[89] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 { \memory_array[90] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 | \memory_array[91] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 } \memory_array[92] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ~ \memory_array[93] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 !" \memory_array[94] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 "" \memory_array[95] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 #" \memory_array[96] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 $" \memory_array[97] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 %" \memory_array[98] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 &" \memory_array[99] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 '" \memory_array[100] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 (" \memory_array[101] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 )" \memory_array[102] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 *" \memory_array[103] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 +" \memory_array[104] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ," \memory_array[105] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 -" \memory_array[106] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ." \memory_array[107] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 /" \memory_array[108] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 0" \memory_array[109] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 1" \memory_array[110] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 2" \memory_array[111] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 3" \memory_array[112] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 4" \memory_array[113] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 5" \memory_array[114] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 6" \memory_array[115] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 7" \memory_array[116] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 8" \memory_array[117] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 9" \memory_array[118] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 :" \memory_array[119] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ;" \memory_array[120] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 <" \memory_array[121] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 =" \memory_array[122] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 >" \memory_array[123] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ?" \memory_array[124] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 @" \memory_array[125] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 A" \memory_array[126] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 B" \memory_array[127] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 C" \memory_array[128] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 D" \memory_array[129] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 E" \memory_array[130] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 F" \memory_array[131] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 G" \memory_array[132] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 H" \memory_array[133] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 I" \memory_array[134] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 J" \memory_array[135] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 K" \memory_array[136] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 L" \memory_array[137] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 M" \memory_array[138] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 N" \memory_array[139] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 O" \memory_array[140] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 P" \memory_array[141] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Q" \memory_array[142] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 R" \memory_array[143] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 S" \memory_array[144] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 T" \memory_array[145] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 U" \memory_array[146] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 V" \memory_array[147] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 W" \memory_array[148] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 X" \memory_array[149] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Y" \memory_array[150] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Z" \memory_array[151] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 [" \memory_array[152] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 \" \memory_array[153] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ]" \memory_array[154] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ^" \memory_array[155] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 _" \memory_array[156] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 `" \memory_array[157] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 a" \memory_array[158] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 b" \memory_array[159] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 c" \memory_array[160] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 d" \memory_array[161] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 e" \memory_array[162] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 f" \memory_array[163] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 g" \memory_array[164] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 h" \memory_array[165] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 i" \memory_array[166] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 j" \memory_array[167] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 k" \memory_array[168] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 l" \memory_array[169] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 m" \memory_array[170] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 n" \memory_array[171] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 o" \memory_array[172] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 p" \memory_array[173] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 q" \memory_array[174] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 r" \memory_array[175] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 s" \memory_array[176] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 t" \memory_array[177] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 u" \memory_array[178] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 v" \memory_array[179] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 w" \memory_array[180] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 x" \memory_array[181] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 y" \memory_array[182] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 z" \memory_array[183] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 {" \memory_array[184] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 |" \memory_array[185] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 }" \memory_array[186] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ~" \memory_array[187] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 !# \memory_array[188] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 "# \memory_array[189] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ## \memory_array[190] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 $# \memory_array[191] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 %# \memory_array[192] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 &# \memory_array[193] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 '# \memory_array[194] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 (# \memory_array[195] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 )# \memory_array[196] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 *# \memory_array[197] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 +# \memory_array[198] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ,# \memory_array[199] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 -# \memory_array[200] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 .# \memory_array[201] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 /# \memory_array[202] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 0# \memory_array[203] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 1# \memory_array[204] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 2# \memory_array[205] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 3# \memory_array[206] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 4# \memory_array[207] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 5# \memory_array[208] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 6# \memory_array[209] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 7# \memory_array[210] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 8# \memory_array[211] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 9# \memory_array[212] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 :# \memory_array[213] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ;# \memory_array[214] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 <# \memory_array[215] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 =# \memory_array[216] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ># \memory_array[217] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ?# \memory_array[218] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 @# \memory_array[219] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 A# \memory_array[220] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 B# \memory_array[221] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 C# \memory_array[222] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 D# \memory_array[223] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 E# \memory_array[224] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 F# \memory_array[225] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 G# \memory_array[226] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 H# \memory_array[227] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 I# \memory_array[228] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 J# \memory_array[229] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 K# \memory_array[230] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 L# \memory_array[231] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 M# \memory_array[232] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 N# \memory_array[233] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 O# \memory_array[234] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 P# \memory_array[235] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Q# \memory_array[236] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 R# \memory_array[237] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 S# \memory_array[238] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 T# \memory_array[239] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 U# \memory_array[240] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 V# \memory_array[241] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 W# \memory_array[242] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 X# \memory_array[243] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Y# \memory_array[244] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 Z# \memory_array[245] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 [# \memory_array[246] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 \# \memory_array[247] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ]# \memory_array[248] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 ^# \memory_array[249] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 _# \memory_array[250] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 `# \memory_array[251] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 a# \memory_array[252] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 b# \memory_array[253] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 c# \memory_array[254] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module dataMemory $end
+$var reg 8 d# \memory_array[255] [7:0] $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$var wire 1 e# WRITE_S $end
+$var wire 8 f# WRITEDATA [7:0] $end
+$var wire 1 g# READ_S $end
+$var wire 8 h# READDATA [7:0] $end
+$var wire 32 i# PC [31:0] $end
+$var wire 32 j# INSTRUCTION [31:0] $end
+$var wire 1 k# BUSYWAIT_S $end
+$var wire 8 l# ADDRESS [7:0] $end
+$var reg 1 m# CLK $end
+$var reg 1 n# RESET $end
+$var integer 32 o# i [31:0] $end
+$scope module dataMemory $end
+$var wire 1 m# clock $end
+$var wire 1 n# reset $end
+$var wire 8 p# writedata [7:0] $end
+$var wire 1 e# write $end
+$var wire 1 g# read $end
+$var wire 8 q# address [7:0] $end
+$var reg 1 k# busywait $end
+$var reg 1 r# readaccess $end
+$var reg 8 s# readdata [7:0] $end
+$var reg 1 t# writeaccess $end
+$var integer 32 u# i [31:0] $end
+$upscope $end
+$scope module mycpu $end
+$var wire 8 v# ADDRESS [7:0] $end
+$var wire 1 k# BUSYWAIT_S $end
+$var wire 1 m# CLK $end
+$var wire 32 w# INSTRUCTION [31:0] $end
+$var wire 8 x# READDATA [7:0] $end
+$var wire 1 n# RESET $end
+$var wire 8 y# WRITEDATA [7:0] $end
+$var wire 1 z# ZERO_OUT $end
+$var wire 1 e# WRITE_S $end
+$var wire 3 {# WRITEREG [2:0] $end
+$var wire 1 |# WRITEENABLE $end
+$var wire 8 }# REGOUT2 [7:0] $end
+$var wire 8 ~# REGOUT1 [7:0] $end
+$var wire 1 g# READ_S $end
+$var wire 3 !$ READREG2 [2:0] $end
+$var wire 3 "$ READREG1 [2:0] $end
+$var wire 32 #$ PC_OUT [31:0] $end
+$var wire 32 $$ OFFSET_COUNT [31:0] $end
+$var wire 8 %$ OFFSET [7:0] $end
+$var wire 8 &$ NEGATIVE_NUM [7:0] $end
+$var wire 8 '$ MUX4_OUT [7:0] $end
+$var wire 1 ($ MUX4SELECT $end
+$var wire 32 )$ MUX3_OUT [31:0] $end
+$var wire 8 *$ MUX2_OUT [7:0] $end
+$var wire 1 +$ MUX2SELECT $end
+$var wire 8 ,$ MUX1_OUT [7:0] $end
+$var wire 1 -$ MUX1SELECT $end
+$var wire 1 .$ JUMPSELECT $end
+$var wire 8 /$ IMMEDIATE [7:0] $end
+$var wire 1 0$ BRANCHSELECT $end
+$var wire 8 1$ ALURESULT [7:0] $end
+$var wire 3 2$ ALUOP [2:0] $end
+$var reg 1 3$ INTERMEDIATE_AND1 $end
+$var reg 1 4$ INTERMEDIATE_AND2 $end
+$var reg 1 5$ MUX3SELECT $end
+$var reg 32 6$ PC [31:0] $end
+$scope module ALU $end
+$var wire 8 7$ rot_res [7:0] $end
+$var wire 8 8$ or_res [7:0] $end
+$var wire 8 9$ mult_res [7:0] $end
+$var wire 8 :$ lshift_res [7:0] $end
+$var wire 8 ;$ forward_res [7:0] $end
+$var wire 8 <$ ashift_res [7:0] $end
+$var wire 8 =$ and_res [7:0] $end
+$var wire 8 >$ add_res [7:0] $end
+$var wire 3 ?$ SELECT [2:0] $end
+$var wire 8 @$ DATA2 [7:0] $end
+$var wire 8 A$ DATA1 [7:0] $end
+$var reg 8 B$ RESULT [7:0] $end
+$var reg 1 z# ZERO $end
+$scope module add1 $end
+$var wire 8 C$ DATA2 [7:0] $end
+$var wire 8 D$ DATA1 [7:0] $end
+$var reg 8 E$ RESULT [7:0] $end
+$upscope $end
+$scope module and1 $end
+$var wire 8 F$ DATA2 [7:0] $end
+$var wire 8 G$ DATA1 [7:0] $end
+$var reg 8 H$ RESULT [7:0] $end
+$upscope $end
+$scope module ashift1 $end
+$var wire 8 I$ RESULT [7:0] $end
+$var wire 8 J$ stage2 [7:0] $end
+$var wire 8 K$ stage1 [7:0] $end
+$var wire 8 L$ stage0 [7:0] $end
+$var wire 1 M$ sign $end
+$var wire 3 N$ shift [2:0] $end
+$var wire 8 O$ DATA2 [7:0] $end
+$var wire 8 P$ DATA1 [7:0] $end
+$upscope $end
+$scope module forward1 $end
+$var wire 8 Q$ DATA2 [7:0] $end
+$var wire 8 R$ DATA1 [7:0] $end
+$var reg 8 S$ RESULT [7:0] $end
+$upscope $end
+$scope module lshift1 $end
+$var wire 8 T$ RESULT [7:0] $end
+$var wire 8 U$ stage2 [7:0] $end
+$var wire 8 V$ stage1 [7:0] $end
+$var wire 8 W$ stage0 [7:0] $end
+$var wire 3 X$ shift [2:0] $end
+$var wire 1 Y$ dir $end
+$var wire 8 Z$ DATA2 [7:0] $end
+$var wire 8 [$ DATA1 [7:0] $end
+$upscope $end
+$scope module mult1 $end
+$var wire 8 \$ RESULT [7:0] $end
+$var wire 1 ]$ dummy_carry $end
+$var wire 1 ^$ sum5 $end
+$var wire 8 _$ OUT [7:0] $end
+$var wire 8 `$ DATA2 [7:0] $end
+$var wire 8 a$ DATA1 [7:0] $end
+$var wire 1 b$ C5 $end
+$scope module FA0_0 $end
+$var wire 1 c$ A $end
+$var wire 1 d$ B $end
+$var wire 1 e$ C $end
+$var wire 1 f$ CARRY $end
+$var wire 1 g$ SUM $end
+$upscope $end
+$scope module FA0_1 $end
+$var wire 1 h$ A $end
+$var wire 1 i$ B $end
+$var wire 1 f$ C $end
+$var wire 1 j$ CARRY $end
+$var wire 1 k$ SUM $end
+$upscope $end
+$scope module FA0_2 $end
+$var wire 1 l$ A $end
+$var wire 1 m$ B $end
+$var wire 1 j$ C $end
+$var wire 1 n$ CARRY $end
+$var wire 1 o$ SUM $end
+$upscope $end
+$scope module FA0_3 $end
+$var wire 1 p$ A $end
+$var wire 1 q$ B $end
+$var wire 1 n$ C $end
+$var wire 1 r$ CARRY $end
+$var wire 1 s$ SUM $end
+$upscope $end
+$scope module FA0_4 $end
+$var wire 1 t$ A $end
+$var wire 1 u$ B $end
+$var wire 1 r$ C $end
+$var wire 1 v$ CARRY $end
+$var wire 1 w$ SUM $end
+$upscope $end
+$scope module FA0_5 $end
+$var wire 1 x$ A $end
+$var wire 1 y$ B $end
+$var wire 1 v$ C $end
+$var wire 1 z$ CARRY $end
+$var wire 1 {$ SUM $end
+$upscope $end
+$scope module FA0_6 $end
+$var wire 1 |$ A $end
+$var wire 1 }$ B $end
+$var wire 1 z$ C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 ~$ SUM $end
+$upscope $end
+$scope module FA1_0 $end
+$var wire 1 k$ A $end
+$var wire 1 !% B $end
+$var wire 1 "% C $end
+$var wire 1 #% CARRY $end
+$var wire 1 $% SUM $end
+$upscope $end
+$scope module FA1_1 $end
+$var wire 1 o$ A $end
+$var wire 1 %% B $end
+$var wire 1 #% C $end
+$var wire 1 &% CARRY $end
+$var wire 1 '% SUM $end
+$upscope $end
+$scope module FA1_2 $end
+$var wire 1 s$ A $end
+$var wire 1 (% B $end
+$var wire 1 &% C $end
+$var wire 1 )% CARRY $end
+$var wire 1 *% SUM $end
+$upscope $end
+$scope module FA1_3 $end
+$var wire 1 w$ A $end
+$var wire 1 +% B $end
+$var wire 1 )% C $end
+$var wire 1 ,% CARRY $end
+$var wire 1 -% SUM $end
+$upscope $end
+$scope module FA1_4 $end
+$var wire 1 {$ A $end
+$var wire 1 .% B $end
+$var wire 1 ,% C $end
+$var wire 1 /% CARRY $end
+$var wire 1 0% SUM $end
+$upscope $end
+$scope module FA1_5 $end
+$var wire 1 ~$ A $end
+$var wire 1 1% B $end
+$var wire 1 /% C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 2% SUM $end
+$upscope $end
+$scope module FA2_0 $end
+$var wire 1 '% A $end
+$var wire 1 3% B $end
+$var wire 1 4% C $end
+$var wire 1 5% CARRY $end
+$var wire 1 6% SUM $end
+$upscope $end
+$scope module FA2_1 $end
+$var wire 1 *% A $end
+$var wire 1 7% B $end
+$var wire 1 5% C $end
+$var wire 1 8% CARRY $end
+$var wire 1 9% SUM $end
+$upscope $end
+$scope module FA2_2 $end
+$var wire 1 -% A $end
+$var wire 1 :% B $end
+$var wire 1 8% C $end
+$var wire 1 ;% CARRY $end
+$var wire 1 <% SUM $end
+$upscope $end
+$scope module FA2_3 $end
+$var wire 1 0% A $end
+$var wire 1 =% B $end
+$var wire 1 ;% C $end
+$var wire 1 >% CARRY $end
+$var wire 1 ?% SUM $end
+$upscope $end
+$scope module FA2_4 $end
+$var wire 1 2% A $end
+$var wire 1 @% B $end
+$var wire 1 >% C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 A% SUM $end
+$upscope $end
+$scope module FA3_0 $end
+$var wire 1 9% A $end
+$var wire 1 B% B $end
+$var wire 1 C% C $end
+$var wire 1 D% CARRY $end
+$var wire 1 E% SUM $end
+$upscope $end
+$scope module FA3_1 $end
+$var wire 1 <% A $end
+$var wire 1 F% B $end
+$var wire 1 D% C $end
+$var wire 1 G% CARRY $end
+$var wire 1 H% SUM $end
+$upscope $end
+$scope module FA3_2 $end
+$var wire 1 ?% A $end
+$var wire 1 I% B $end
+$var wire 1 G% C $end
+$var wire 1 J% CARRY $end
+$var wire 1 K% SUM $end
+$upscope $end
+$scope module FA3_3 $end
+$var wire 1 A% A $end
+$var wire 1 L% B $end
+$var wire 1 J% C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 M% SUM $end
+$upscope $end
+$scope module FA4_0 $end
+$var wire 1 H% A $end
+$var wire 1 N% B $end
+$var wire 1 O% C $end
+$var wire 1 P% CARRY $end
+$var wire 1 Q% SUM $end
+$upscope $end
+$scope module FA4_1 $end
+$var wire 1 K% A $end
+$var wire 1 R% B $end
+$var wire 1 P% C $end
+$var wire 1 S% CARRY $end
+$var wire 1 T% SUM $end
+$upscope $end
+$scope module FA4_2 $end
+$var wire 1 M% A $end
+$var wire 1 U% B $end
+$var wire 1 S% C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 V% SUM $end
+$upscope $end
+$scope module FA5_0 $end
+$var wire 1 T% A $end
+$var wire 1 W% B $end
+$var wire 1 X% C $end
+$var wire 1 b$ CARRY $end
+$var wire 1 Y% SUM $end
+$upscope $end
+$scope module FA5_1 $end
+$var wire 1 V% A $end
+$var wire 1 Z% B $end
+$var wire 1 b$ C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 ^$ SUM $end
+$upscope $end
+$scope module FA6_0 $end
+$var wire 1 ^$ A $end
+$var wire 1 [% B $end
+$var wire 1 \% C $end
+$var wire 1 ]$ CARRY $end
+$var wire 1 ]% SUM $end
+$upscope $end
+$upscope $end
+$scope module or1 $end
+$var wire 8 ^% DATA2 [7:0] $end
+$var wire 8 _% DATA1 [7:0] $end
+$var reg 8 `% RESULT [7:0] $end
+$upscope $end
+$scope module rotate1 $end
+$var wire 8 a% RESULT [7:0] $end
+$var wire 8 b% stage2 [7:0] $end
+$var wire 8 c% stage1 [7:0] $end
+$var wire 8 d% stage0 [7:0] $end
+$var wire 3 e% rotate_amt [2:0] $end
+$var wire 8 f% DATA2 [7:0] $end
+$var wire 8 g% DATA1 [7:0] $end
+$upscope $end
+$upscope $end
+$scope module OffsetAdder $end
+$var wire 32 h% SHIFTED_OFFSET [31:0] $end
+$var wire 32 i% PC_OUTPUT [31:0] $end
+$var wire 32 j% OUTPUT [31:0] $end
+$var wire 8 k% OFFSET [7:0] $end
+$var wire 30 l% EXTENDED_OFFSET [29:0] $end
+$upscope $end
+$scope module PCadder $end
+$var wire 1 k# BUSYWAIT $end
+$var wire 32 m% INPUT [31:0] $end
+$var reg 32 n% PC_OUTPUT [31:0] $end
+$upscope $end
+$scope module comLogic $end
+$var wire 32 o% INSTRUCTION [31:0] $end
+$var wire 3 p% WRITEREG [2:0] $end
+$var wire 3 q% READREG2 [2:0] $end
+$var wire 3 r% READREG1 [2:0] $end
+$var wire 8 s% OFFSET [7:0] $end
+$var wire 8 t% IMMEDIATE [7:0] $end
+$upscope $end
+$scope module complement $end
+$var wire 8 u% op_number [7:0] $end
+$var wire 8 v% ip_number [7:0] $end
+$upscope $end
+$scope module control $end
+$var wire 1 k# BUSYWAIT $end
+$var wire 32 w% INSTRUCTION [31:0] $end
+$var reg 3 x% ALUOP [2:0] $end
+$var reg 1 0$ BRANCH $end
+$var reg 1 .$ JUMP $end
+$var reg 1 -$ MUX1 $end
+$var reg 1 +$ MUX2 $end
+$var reg 1 ($ MUX4 $end
+$var reg 8 y% OPCODE [7:0] $end
+$var reg 1 g# READ $end
+$var reg 1 e# WRITE $end
+$var reg 1 |# WRITEENABLE $end
+$upscope $end
+$scope module mux1 $end
+$var wire 8 z% DATA2 [7:0] $end
+$var wire 1 -$ SELECT $end
+$var wire 8 {% DATA1 [7:0] $end
+$var reg 8 |% OUTPUT [7:0] $end
+$upscope $end
+$scope module mux2 $end
+$var wire 8 }% DATA1 [7:0] $end
+$var wire 8 ~% DATA2 [7:0] $end
+$var wire 1 +$ SELECT $end
+$var reg 8 !& OUTPUT [7:0] $end
+$upscope $end
+$scope module mux3 $end
+$var wire 32 "& DATA1 [31:0] $end
+$var wire 32 #& DATA2 [31:0] $end
+$var wire 1 5$ SELECT $end
+$var reg 32 $& OUTPUT [31:0] $end
+$upscope $end
+$scope module mux4 $end
+$var wire 8 %& DATA1 [7:0] $end
+$var wire 8 && DATA2 [7:0] $end
+$var wire 1 ($ SELECT $end
+$var reg 8 '& OUTPUT [7:0] $end
+$upscope $end
+$scope module register $end
+$var wire 1 m# CLK $end
+$var wire 8 (& IN [7:0] $end
+$var wire 3 )& INADDRESS [2:0] $end
+$var wire 3 *& OUT1ADDRESS [2:0] $end
+$var wire 3 +& OUT2ADDRESS [2:0] $end
+$var wire 1 n# RESET $end
+$var wire 1 |# WRITE $end
+$var reg 8 ,& OUT1 [7:0] $end
+$var reg 8 -& OUT2 [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 .& \registers[0] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 /& \registers[1] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 0& \registers[2] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 1& \registers[3] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 2& \registers[4] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 3& \registers[5] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 4& \registers[6] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module cpu_tb $end
+$scope module mycpu $end
+$scope module register $end
+$var reg 8 5& \registers[7] [7:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx 5&
+bx 4&
+bx 3&
+bx 2&
+bx 1&
+bx 0&
+bx /&
+bx .&
+bx -&
+bx ,&
+bx +&
+bx *&
+bx )&
+bx (&
+bx '&
+bx &&
+bx %&
+bx $&
+bx #&
+bx "&
+bx !&
+bx ~%
+bx }%
+bx |%
+bx {%
+bx z%
+bx y%
+bx x%
+bx w%
+bx v%
+bx u%
+bx t%
+bx s%
+bx r%
+bx q%
+bx p%
+bx o%
+bx n%
+bx m%
+bx l%
+bx k%
+bx j%
+bx i%
+bx00 h%
+bx g%
+bx f%
+bx e%
+bx d%
+bx c%
+bx b%
+bx a%
+bx `%
+bx _%
+bx ^%
+x]%
+0\%
+x[%
+xZ%
+xY%
+0X%
+xW%
+xV%
+xU%
+xT%
+xS%
+xR%
+xQ%
+xP%
+0O%
+xN%
+xM%
+xL%
+xK%
+xJ%
+xI%
+xH%
+xG%
+xF%
+xE%
+xD%
+0C%
+xB%
+xA%
+x@%
+x?%
+x>%
+x=%
+x<%
+x;%
+x:%
+x9%
+x8%
+x7%
+x6%
+x5%
+04%
+x3%
+x2%
+x1%
+x0%
+x/%
+x.%
+x-%
+x,%
+x+%
+x*%
+x)%
+x(%
+x'%
+x&%
+x%%
+x$%
+x#%
+0"%
+x!%
+x~$
+x}$
+x|$
+x{$
+xz$
+xy$
+xx$
+xw$
+xv$
+xu$
+xt$
+xs$
+xr$
+xq$
+xp$
+xo$
+xn$
+xm$
+xl$
+xk$
+xj$
+xi$
+xh$
+xg$
+xf$
+0e$
+xd$
+xc$
+xb$
+bx a$
+bx `$
+bx _$
+x^$
+x]$
+bx \$
+bx [$
+bx Z$
+xY$
+bx X$
+bx W$
+bx V$
+bx U$
+bx T$
+bx S$
+bx R$
+bx Q$
+bx P$
+bx O$
+bx N$
+xM$
+bx L$
+bx K$
+bx J$
+bx I$
+bx H$
+bx G$
+bx F$
+bx E$
+bx D$
+bx C$
+bx B$
+bx A$
+bx @$
+bx ?$
+bx >$
+bx =$
+bx <$
+bx ;$
+bx :$
+bx 9$
+bx 8$
+bx 7$
+bx 6$
+x5$
+x4$
+x3$
+bx 2$
+bx 1$
+x0$
+bx /$
+x.$
+x-$
+bx ,$
+x+$
+bx *$
+bx )$
+x($
+bx '$
+bx &$
+bx %$
+bx $$
+bx #$
+bx "$
+bx !$
+bx ~#
+bx }#
+x|#
+bx {#
+xz#
+bx y#
+bx x#
+bx w#
+bx v#
+b100000000 u#
+0t#
+bx s#
+0r#
+bx q#
+bx p#
+b1000 o#
+1n#
+0m#
+bx l#
+0k#
+bx j#
+bx i#
+bx h#
+xg#
+bx f#
+xe#
+b0 d#
+b0 c#
+b0 b#
+b0 a#
+b0 `#
+b0 _#
+b0 ^#
+b0 ]#
+b0 \#
+b0 [#
+b0 Z#
+b0 Y#
+b0 X#
+b0 W#
+b0 V#
+b0 U#
+b0 T#
+b0 S#
+b0 R#
+b0 Q#
+b0 P#
+b0 O#
+b0 N#
+b0 M#
+b0 L#
+b0 K#
+b0 J#
+b0 I#
+b0 H#
+b0 G#
+b0 F#
+b0 E#
+b0 D#
+b0 C#
+b0 B#
+b0 A#
+b0 @#
+b0 ?#
+b0 >#
+b0 =#
+b0 <#
+b0 ;#
+b0 :#
+b0 9#
+b0 8#
+b0 7#
+b0 6#
+b0 5#
+b0 4#
+b0 3#
+b0 2#
+b0 1#
+b0 0#
+b0 /#
+b0 .#
+b0 -#
+b0 ,#
+b0 +#
+b0 *#
+b0 )#
+b0 (#
+b0 '#
+b0 &#
+b0 %#
+b0 $#
+b0 ##
+b0 "#
+b0 !#
+b0 ~"
+b0 }"
+b0 |"
+b0 {"
+b0 z"
+b0 y"
+b0 x"
+b0 w"
+b0 v"
+b0 u"
+b0 t"
+b0 s"
+b0 r"
+b0 q"
+b0 p"
+b0 o"
+b0 n"
+b0 m"
+b0 l"
+b0 k"
+b0 j"
+b0 i"
+b0 h"
+b0 g"
+b0 f"
+b0 e"
+b0 d"
+b0 c"
+b0 b"
+b0 a"
+b0 `"
+b0 _"
+b0 ^"
+b0 ]"
+b0 \"
+b0 ["
+b0 Z"
+b0 Y"
+b0 X"
+b0 W"
+b0 V"
+b0 U"
+b0 T"
+b0 S"
+b0 R"
+b0 Q"
+b0 P"
+b0 O"
+b0 N"
+b0 M"
+b0 L"
+b0 K"
+b0 J"
+b0 I"
+b0 H"
+b0 G"
+b0 F"
+b0 E"
+b0 D"
+b0 C"
+b0 B"
+b0 A"
+b0 @"
+b0 ?"
+b0 >"
+b0 ="
+b0 <"
+b0 ;"
+b0 :"
+b0 9"
+b0 8"
+b0 7"
+b0 6"
+b0 5"
+b0 4"
+b0 3"
+b0 2"
+b0 1"
+b0 0"
+b0 /"
+b0 ."
+b0 -"
+b0 ,"
+b0 +"
+b0 *"
+b0 )"
+b0 ("
+b0 '"
+b0 &"
+b0 %"
+b0 $"
+b0 #"
+b0 ""
+b0 !"
+b0 ~
+b0 }
+b0 |
+b0 {
+b0 z
+b0 y
+b0 x
+b0 w
+b0 v
+b0 u
+b0 t
+b0 s
+b0 r
+b0 q
+b0 p
+b0 o
+b0 n
+b0 m
+b0 l
+b0 k
+b0 j
+b0 i
+b0 h
+b0 g
+b0 f
+b0 e
+b0 d
+b0 c
+b0 b
+b0 a
+b0 `
+b0 _
+b0 ^
+b0 ]
+b0 \
+b0 [
+b0 Z
+b0 Y
+b0 X
+b0 W
+b0 V
+b0 U
+b0 T
+b0 S
+b0 R
+b0 Q
+b0 P
+b0 O
+b0 N
+b0 M
+b0 L
+b0 K
+b0 J
+b0 I
+b0 H
+b0 G
+b0 F
+b0 E
+b0 D
+b0 C
+b0 B
+b0 A
+b0 @
+b0 ?
+b0 >
+b0 =
+b0 <
+b0 ;
+b0 :
+b0 9
+b0 8
+b0 7
+b0 6
+b0 5
+b0 4
+b0 3
+b0 2
+b0 1
+b0 0
+b0 /
+b0 .
+b0 -
+b0 ,
+b0 +
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#4
+1m#
+#5
+b100 #$
+b100 i%
+b100 n%
+b100 "&
+b0 i#
+b0 6$
+b0 m%
+b0 5&
+b0 4&
+b0 3&
+b0 2&
+b0 1&
+b0 0&
+b0 /&
+b0 .&
+0n#
+#7
+b100 )$
+b100 $&
+05$
+04$
+03$
+0z#
+0g#
+0e#
+0($
+00$
+0.$
+b0 2$
+b0 ?$
+b0 x%
+0+$
+0-$
+1|#
+b0 y%
+b10000000000000111 j#
+b10000000000000111 w#
+b10000000000000111 o%
+b10000000000000111 w%
+#8
+0>%
+0J%
+0;%
+0S%
+0G%
+08%
+0b$
+0P%
+0D%
+05%
+b0xxxxxxx W$
+b0xxxxx V$
+b0x U$
+0[%
+0Z%
+0W%
+0U%
+0R%
+0N%
+0L%
+0I%
+0F%
+0B%
+0@%
+0=%
+0:%
+07%
+03%
+b111 e%
+0Y$
+b111 X$
+b111 N$
+b111 *$
+b111 @$
+b111 C$
+b111 F$
+b111 O$
+b111 Q$
+b111 Z$
+b111 `$
+b111 ^%
+b111 f%
+b111 !&
+b1 {#
+b1 p%
+b1 )&
+b0 "$
+b0 r%
+b0 *&
+b111 !$
+b111 q%
+b111 +&
+b111 /$
+b111 t%
+b111 }%
+b100 h%
+b1 l%
+b1 %$
+b1 k%
+b1 s%
+0m#
+#9
+b111 '$
+b111 '&
+b111 (&
+b111 l#
+b111 q#
+b111 v#
+b111 1$
+b111 B$
+b111 %&
+bx111 8$
+bx111 `%
+b0xxx =$
+b0xxx H$
+b111 ;$
+b111 S$
+#10
+0]%
+0^$
+0Y%
+0V%
+0T%
+0Q%
+0M%
+0K%
+0H%
+0E%
+0A%
+0?%
+0<%
+09%
+b0 U$
+02%
+00%
+0-%
+06%
+0*%
+0]$
+0/%
+0,%
+0)%
+b0 b%
+0&%
+0$%
+b0 V$
+0'%
+b0 c%
+0#%
+0~$
+0{$
+0z$
+0w$
+0v$
+0s$
+0r$
+0o$
+0n$
+0k$
+0j$
+0g$
+0f$
+b0 W$
+b0 d%
+01%
+0.%
+0+%
+0(%
+0%%
+0!%
+0}$
+0|$
+0y$
+0x$
+0u$
+0t$
+0q$
+0p$
+0m$
+0l$
+0i$
+0h$
+0d$
+0c$
+b0 _$
+b0 L$
+b0 K$
+b0 J$
+b0 ,$
+b0 |%
+b0 ~%
+0M$
+b0 }#
+b0 v%
+b0 {%
+b0 -&
+b0 f#
+b0 p#
+b0 y#
+b0 ~#
+b0 A$
+b0 D$
+b0 G$
+b0 P$
+b0 R$
+b0 [$
+b0 a$
+b0 _%
+b0 g%
+b0 ,&
+b0x :$
+b0x T$
+b1000 $$
+b1000 j%
+b1000 #&
+#11
+b0 &$
+b0 u%
+b0 z%
+b0 =$
+b0 H$
+b111 8$
+b111 `%
+#12
+b0 :$
+b0 T$
+b0 7$
+b0 a%
+b0 9$
+b0 \$
+b0 <$
+b0 I$
+b111 >$
+b111 E$
+1m#
+#13
+b1000 )$
+b1000 $&
+b1000 #$
+b1000 i%
+b1000 n%
+b1000 "&
+b100 i#
+b100 6$
+b100 m%
+b111 /&
+#15
+b1100 $$
+b1100 j%
+b1100 #&
+b100000000000001010 j#
+b100000000000001010 w#
+b100000000000001010 o%
+b100000000000001010 w%
+#16
+b10 e%
+b10 X$
+b10 N$
+b1010 *$
+b1010 @$
+b1010 C$
+b1010 F$
+b1010 O$
+b1010 Q$
+b1010 Z$
+b1010 `$
+b1010 ^%
+b1010 f%
+b1010 !&
+b10 {#
+b10 p%
+b10 )&
+b10 !$
+b10 q%
+b10 +&
+b1010 /$
+b1010 t%
+b1010 }%
+b1000 h%
+b10 l%
+b10 %$
+b10 k%
+b10 s%
+0m#
+#17
+b1010 '$
+b1010 '&
+b1010 (&
+b1010 l#
+b1010 q#
+b1010 v#
+b1010 1$
+b1010 B$
+b1010 %&
+b1010 8$
+b1010 `%
+b1010 ;$
+b1010 S$
+#18
+b1010 >$
+b1010 E$
+b10000 $$
+b10000 j%
+b10000 #&
+#20
+1m#
+#21
+b1100 )$
+b1100 $&
+b1100 #$
+b1100 i%
+b1100 n%
+b1100 "&
+b1000 i#
+b1000 6$
+b1000 m%
+b1010 0&
+#23
+b1010 ,$
+b1010 |%
+b1010 ~%
+b1010 }#
+b1010 v%
+b1010 {%
+b1010 -&
+b1000 )$
+b1000 $&
+b1000 #$
+b1000 i%
+b1000 n%
+b1000 "&
+b10 e%
+b10 X$
+b10 N$
+1t#
+1k#
+b1010 *$
+b1010 @$
+b1010 C$
+b1010 F$
+b1010 O$
+b1010 Q$
+b1010 Z$
+b1010 `$
+b1010 ^%
+b1010 f%
+b1010 !&
+1e#
+1+$
+b1111 y%
+b10100 $$
+b10100 j%
+b10100 #&
+b1111000000000000001000000001 j#
+b1111000000000000001000000001 w#
+b1111000000000000001000000001 o%
+b1111000000000000001000000001 w%
+#24
+b11110110 &$
+b11110110 u%
+b11110110 z%
+b0 {#
+b0 p%
+b0 )&
+b10 "$
+b10 r%
+b10 *&
+b1 !$
+b1 q%
+b1 +&
+b1 /$
+b1 t%
+b1 }%
+b0 h%
+b0 l%
+b0 %$
+b0 k%
+b0 s%
+0m#
+#26
+10%
+0Q%
+1,%
+0H%
+1)%
+1Y%
+0<%
+06%
+1&%
+1T%
+0-%
+0'%
+1o$
+1g$
+1K%
+0E%
+0*%
+b1000110 _$
+1$%
+b1 V$
+1+%
+1%%
+1l$
+1c$
+b10100 b%
+1?%
+09%
+1s$
+1k$
+b0 J$
+b111 e%
+b111 X$
+b111 N$
+b1000001 c%
+b1 K$
+b111 *$
+b111 @$
+b111 C$
+b111 F$
+b111 O$
+b111 Q$
+b111 Z$
+b111 `$
+b111 ^%
+b111 f%
+b111 !&
+0=%
+07%
+1q$
+1i$
+b101 W$
+b111 ,$
+b111 |%
+b111 ~%
+b101 d%
+b101 L$
+b111 }#
+b111 v%
+b111 {%
+b111 -&
+b1010 f#
+b1010 p#
+b1010 y#
+b1010 ~#
+b1010 A$
+b1010 D$
+b1010 G$
+b1010 P$
+b1010 R$
+b1010 [$
+b1010 a$
+b1010 _%
+b1010 g%
+b1010 ,&
+b1000 $$
+b1000 j%
+b1000 #&
+#27
+b111 '$
+b111 '&
+b111 (&
+b111 l#
+b111 q#
+b111 v#
+b111 1$
+b111 B$
+b111 %&
+b111 ;$
+b111 S$
+b11111001 &$
+b11111001 u%
+b11111001 z%
+b1111 8$
+b1111 `%
+b10 =$
+b10 H$
+#28
+b1000110 9$
+b1000110 \$
+b10100 7$
+b10100 a%
+b10001 >$
+b10001 E$
+1m#
+#29
+b111 .&
+#32
+0m#
+#36
+1m#
+#37
+b111 .&
+#40
+0m#
+#44
+1m#
+#45
+b111 .&
+#48
+0m#
+#52
+1m#
+#53
+b111 .&
+#56
+0m#
+#60
+1m#
+#61
+b111 .&
+#64
+0m#
+#68
+b1100 )$
+b1100 $&
+b1100 #$
+b1100 i%
+b1100 n%
+b1100 "&
+1m#
+0t#
+0k#
+b1010 (
+#69
+b10000 )$
+b10000 $&
+b10000 #$
+b10000 i%
+b10000 n%
+b10000 "&
+b1100 i#
+b1100 6$
+b1100 m%
+b111 .&
+#71
+bx y%
+b10000 $$
+b10000 j%
+b10000 #&
+bx j#
+bx w#
+bx o%
+bx w%
+#72
+bx {#
+bx p%
+bx )&
+bx "$
+bx r%
+bx *&
+bx !$
+bx q%
+bx +&
+bx /$
+bx t%
+bx }%
+bx00 h%
+bx l%
+bx %$
+bx k%
+bx s%
+0m#
+#74
+xP%
+xG%
+xD%
+x]%
+x^$
+xY%
+xb$
+xV%
+xT%
+xS%
+xQ%
+xM%
+xK%
+xJ%
+xH%
+xE%
+xA%
+x?%
+x>%
+x<%
+x;%
+x9%
+x8%
+x6%
+x5%
+bx b%
+x/%
+x,%
+x[%
+xZ%
+xW%
+xU%
+xR%
+xN%
+xL%
+xI%
+xF%
+xB%
+x@%
+x=%
+x:%
+x7%
+x3%
+bx V$
+bx U$
+bx c%
+x2%
+x0%
+x-%
+x*%
+x)%
+x'%
+x&%
+x$%
+x#%
+x~$
+x]$
+x{$
+xz$
+xw$
+xv$
+xs$
+xr$
+xo$
+xn$
+xk$
+xj$
+xg$
+xf$
+bx e%
+xY$
+bx X$
+bx N$
+bx W$
+bx *$
+bx @$
+bx C$
+bx F$
+bx O$
+bx Q$
+bx Z$
+bx `$
+bx ^%
+bx f%
+bx !&
+bx d%
+x1%
+x.%
+x+%
+x(%
+x%%
+x!%
+x}$
+x|$
+xy$
+xx$
+xu$
+xt$
+xq$
+xp$
+xm$
+xl$
+xi$
+xh$
+xd$
+xc$
+bx _$
+bx L$
+bx K$
+bx J$
+bx ,$
+bx |%
+bx ~%
+xM$
+bx }#
+bx v%
+bx {%
+bx -&
+bx f#
+bx p#
+bx y#
+bx ~#
+bx A$
+bx D$
+bx G$
+bx P$
+bx R$
+bx [$
+bx a$
+bx _%
+bx g%
+bx ,&
+bx $$
+bx j%
+bx #&
+#75
+bx '$
+bx '&
+bx (&
+bx l#
+bx q#
+bx v#
+bx 1$
+bx B$
+bx %&
+bx ;$
+bx S$
+bx &$
+bx u%
+bx z%
+bx =$
+bx H$
+bx 8$
+bx `%
+#76
+bx 7$
+bx a%
+bx :$
+bx T$
+bx 9$
+bx \$
+bx <$
+bx I$
+bx >$
+bx E$
+1m#
+#77
+b10100 )$
+b10100 $&
+b10100 #$
+b10100 i%
+b10100 n%
+b10100 "&
+b10000 i#
+b10000 6$
+b10000 m%
+#79
+0e#
+b1 y%
+b1000000000000000000000000 j#
+b1000000000000000000000000 w#
+b1000000000000000000000000 o%
+b1000000000000000000000000 w%
+#80
+b0 {#
+b0 p%
+b0 )&
+b0 "$
+b0 r%
+b0 *&
+b0 !$
+b0 q%
+b0 +&
+b0 /$
+b0 t%
+b0 }%
+b0 h%
+b0 l%
+b0 %$
+b0 k%
+b0 s%
+0m#
+#82
+0]%
+0^$
+0Y%
+1Q%
+0V%
+0T%
+1H%
+0M%
+0K%
+1E%
+1<%
+0]$
+0A%
+0?%
+19%
+1-%
+0>%
+0J%
+0;%
+06%
+1)%
+1*%
+0S%
+0G%
+08%
+0'%
+1&%
+1s$
+0$%
+1#%
+02%
+00%
+1n$
+0/%
+0,%
+0b$
+0P%
+0D%
+05%
+0o$
+1k$
+1j$
+0g$
+1f$
+b0 U$
+b1110 b%
+0[%
+0Z%
+0W%
+0U%
+0R%
+0N%
+0I%
+0F%
+0B%
+0:%
+07%
+03%
+1(%
+1%%
+1!%
+1m$
+1i$
+1h$
+1d$
+1c$
+b110001 _$
+0~$
+0{$
+0z$
+0w$
+0v$
+0r$
+b0 V$
+b111 e%
+0Y$
+b111 X$
+b111 N$
+b11100000 c%
+b0 J$
+b111 *$
+b111 @$
+b111 C$
+b111 F$
+b111 O$
+b111 Q$
+b111 Z$
+b111 `$
+b111 ^%
+b111 f%
+b111 !&
+0L%
+0@%
+0=%
+01%
+0.%
+0+%
+0}$
+0|$
+0y$
+0x$
+0u$
+0t$
+0q$
+0p$
+0l$
+b11 W$
+b0 K$
+b111 ,$
+b111 |%
+b111 ~%
+b10000011 d%
+b11 L$
+0M$
+b111 }#
+b111 v%
+b111 {%
+b111 -&
+b111 f#
+b111 p#
+b111 y#
+b111 ~#
+b111 A$
+b111 D$
+b111 G$
+b111 P$
+b111 R$
+b111 [$
+b111 a$
+b111 _%
+b111 g%
+b111 ,&
+b10100 $$
+b10100 j%
+b10100 #&
+#83
+b111 '$
+b111 '&
+b111 (&
+b111 l#
+b111 q#
+b111 v#
+b111 1$
+b111 B$
+b111 %&
+b111 ;$
+b111 S$
+b11111001 &$
+b11111001 u%
+b11111001 z%
+b111 8$
+b111 `%
+b111 =$
+b111 H$
+#84
+b0 :$
+b0 T$
+b1110 7$
+b1110 a%
+b110001 9$
+b110001 \$
+b0 <$
+b0 I$
+b1110 >$
+b1110 E$
+1m#
+#85
+b11000 )$
+b11000 $&
+b11000 #$
+b11000 i%
+b11000 n%
+b11000 "&
+b10100 i#
+b10100 6$
+b10100 m%
+b111 .&
+#87
+bx y%
+b11000 $$
+b11000 j%
+b11000 #&
+bx j#
+bx w#
+bx o%
+bx w%
+#88
+bx {#
+bx p%
+bx )&
+bx "$
+bx r%
+bx *&
+bx !$
+bx q%
+bx +&
+bx /$
+bx t%
+bx }%
+bx00 h%
+bx l%
+bx %$
+bx k%
+bx s%
+0m#
+#90
+xb$
+xS%
+xJ%
+x]%
+x^$
+xY%
+xV%
+xT%
+xQ%
+xP%
+xM%
+xK%
+xH%
+xG%
+xE%
+xD%
+bx U$
+xA%
+x?%
+x>%
+x<%
+x;%
+x9%
+x8%
+x6%
+x5%
+x/%
+bx b%
+x,%
+x&%
+x[%
+xZ%
+xW%
+xU%
+xR%
+xN%
+xL%
+xI%
+xF%
+xB%
+x@%
+x=%
+x:%
+x7%
+x3%
+bx V$
+bx c%
+x2%
+x0%
+x-%
+x*%
+x)%
+x'%
+x$%
+x#%
+x~$
+x]$
+x{$
+xz$
+xw$
+xv$
+xs$
+xr$
+xo$
+xn$
+xk$
+xj$
+xg$
+xf$
+bx e%
+xY$
+bx X$
+bx N$
+bx W$
+bx *$
+bx @$
+bx C$
+bx F$
+bx O$
+bx Q$
+bx Z$
+bx `$
+bx ^%
+bx f%
+bx !&
+bx d%
+x1%
+x.%
+x+%
+x(%
+x%%
+x!%
+x}$
+x|$
+xy$
+xx$
+xu$
+xt$
+xq$
+xp$
+xm$
+xl$
+xi$
+xh$
+xd$
+xc$
+bx _$
+bx L$
+bx K$
+bx J$
+bx ,$
+bx |%
+bx ~%
+xM$
+bx }#
+bx v%
+bx {%
+bx -&
+bx f#
+bx p#
+bx y#
+bx ~#
+bx A$
+bx D$
+bx G$
+bx P$
+bx R$
+bx [$
+bx a$
+bx _%
+bx g%
+bx ,&
+bx $$
+bx j%
+bx #&
+#91
+bx '$
+bx '&
+bx (&
+bx l#
+bx q#
+bx v#
+bx 1$
+bx B$
+bx %&
+bx ;$
+bx S$
+bx &$
+bx u%
+bx z%
+bx =$
+bx H$
+bx 8$
+bx `%
+#92
+bx :$
+bx T$
+bx 7$
+bx a%
+bx 9$
+bx \$
+bx <$
+bx I$
+bx >$
+bx E$
+1m#
+#93
+b11100 )$
+b11100 $&
+b11100 #$
+b11100 i%
+b11100 n%
+b11100 "&
+b11000 i#
+b11000 6$
+b11000 m%
+#96
+0m#
+#100
+1m#
+#101
+b100000 )$
+b100000 $&
+b100000 #$
+b100000 i%
+b100000 n%
+b100000 "&
+b11100 i#
+b11100 6$
+b11100 m%
+#103
+b11100 )$
+b11100 $&
+b11100 #$
+b11100 i%
+b11100 n%
+b11100 "&
+1r#
+1k#
+1g#
+1($
+b1101 y%
+b1101000001000000000000000001 j#
+b1101000001000000000000000001 w#
+b1101000001000000000000000001 o%
+b1101000001000000000000000001 w%
+#104
+b100 {#
+b100 p%
+b100 )&
+b0 "$
+b0 r%
+b0 *&
+b1 !$
+b1 q%
+b1 +&
+b1 /$
+b1 t%
+b1 }%
+b10000 h%
+b100 l%
+b100 %$
+b100 k%
+b100 s%
+0m#
+#106
+0]%
+0^$
+0Y%
+1Q%
+0V%
+0T%
+1H%
+0M%
+0K%
+1E%
+1<%
+0]$
+0A%
+0?%
+19%
+1-%
+0>%
+0J%
+0;%
+06%
+1)%
+1*%
+0S%
+0G%
+08%
+0'%
+1&%
+1s$
+0$%
+1#%
+02%
+00%
+1n$
+0/%
+0,%
+0b$
+0P%
+0D%
+05%
+0o$
+1k$
+1j$
+0g$
+1f$
+b0 U$
+b1110 b%
+0[%
+0Z%
+0W%
+0U%
+0R%
+0N%
+0I%
+0F%
+0B%
+0:%
+07%
+03%
+1(%
+1%%
+1!%
+1m$
+1i$
+1h$
+1d$
+1c$
+b110001 _$
+0~$
+0{$
+0z$
+0w$
+0v$
+0r$
+b0 V$
+b111 e%
+0Y$
+b111 X$
+b111 N$
+b11100000 c%
+b0 J$
+b111 *$
+b111 @$
+b111 C$
+b111 F$
+b111 O$
+b111 Q$
+b111 Z$
+b111 `$
+b111 ^%
+b111 f%
+b111 !&
+0L%
+0@%
+0=%
+01%
+0.%
+0+%
+0}$
+0|$
+0y$
+0x$
+0u$
+0t$
+0q$
+0p$
+0l$
+b11 W$
+b0 K$
+b111 ,$
+b111 |%
+b111 ~%
+b10000011 d%
+b11 L$
+0M$
+b111 }#
+b111 v%
+b111 {%
+b111 -&
+b111 f#
+b111 p#
+b111 y#
+b111 ~#
+b111 A$
+b111 D$
+b111 G$
+b111 P$
+b111 R$
+b111 [$
+b111 a$
+b111 _%
+b111 g%
+b111 ,&
+b101100 $$
+b101100 j%
+b101100 #&
+#107
+b111 l#
+b111 q#
+b111 v#
+b111 1$
+b111 B$
+b111 %&
+b111 ;$
+b111 S$
+b11111001 &$
+b11111001 u%
+b11111001 z%
+b111 8$
+b111 `%
+b111 =$
+b111 H$
+#108
+b0 :$
+b0 T$
+b1110 7$
+b1110 a%
+b110001 9$
+b110001 \$
+b0 <$
+b0 I$
+b1110 >$
+b1110 E$
+1m#
+#109
+bx 2&
+#112
+0m#
+#116
+1m#
+#117
+bx 2&
+#120
+0m#
+#124
+1m#
+#125
+bx 2&
